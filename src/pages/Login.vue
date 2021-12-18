@@ -69,8 +69,7 @@ export default {
   background-color: #4a154b;
   border: 2px solid #ffffff;
   border-radius: 16px;
-  color: white;
-  padding: 18px 64px;
+  color: #140202;
   font-size: 24px;
   position: fixed;
   top: 400px;
