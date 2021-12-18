@@ -30,7 +30,6 @@ const getters = {
    currentChannel: state => state.currentChannel
 };
 
-// create vuex store
 const store = new Vuex.Store({
   state,
   mutations,
